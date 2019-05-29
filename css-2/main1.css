@@ -5157,7 +5157,7 @@ transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			
 content: '';
 			
-background-image: url(../../images/bg.jpg);
+background-color: black;
 			
 background-attachment: fixed;
 			
