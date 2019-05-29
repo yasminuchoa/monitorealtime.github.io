@@ -5157,7 +5157,7 @@ transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			
 content: '';
 			
-background-color: rgba(255, 255, 255, 1);;
+background-color: rgb(28, 28, 28);;
 			
 background-attachment: fixed;
 			
