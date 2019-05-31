@@ -4992,7 +4992,7 @@ padding-top: 8rem;
 		
 body.is-loading:after {
 			
-visibility: solid;
+visibility: hidden;
 			
 opacity: 0;
 		}
@@ -5018,8 +5018,7 @@ transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			
 content: '';
 			
-background-color: rgb(77, 172, 220);;
-			
+background-color: rgb(77, 172, 220);		
 background-attachment: fixed;
 			
 background-position: center;
