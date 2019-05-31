@@ -3168,13 +3168,13 @@ border-radius: 0;
 }
 
 		
-.box header {
+<--.box header {
 			
 margin: 0 0 2rem 0;
 		
 }
 
-			
+		-->	
 .box header h2 {
 				
 margin-bottom: 1rem;
@@ -5204,7 +5204,7 @@ background-size: 100%;
 }
 
 	
-<!--NADA #header {
+#header {
 		
 color: #a6a6a6;
 		
@@ -5222,8 +5222,7 @@ z-index: 10001;
 			
 margin: 0 0 4rem 0;
 			
-padding: 0;
- -->		
+padding: 0;	
 }
 
 			
