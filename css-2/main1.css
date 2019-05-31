@@ -4992,7 +4992,7 @@ padding-top: 8rem;
 		
 body.is-loading:after {
 			
-visibility: hidden;
+visibility: solid;
 			
 opacity: 0;
 		}
